@@ -1,0 +1,7 @@
+C:\Users\Shipa\source\repos\DpHw-2\DpHw-2.Prototype\bin\Debug\DpHw-2.Prototype.exe.config
+C:\Users\Shipa\source\repos\DpHw-2\DpHw-2.Prototype\bin\Debug\DpHw-2.Prototype.exe
+C:\Users\Shipa\source\repos\DpHw-2\DpHw-2.Prototype\bin\Debug\DpHw-2.Prototype.pdb
+C:\Users\Shipa\source\repos\DpHw-2\DpHw-2.Prototype\obj\Debug\DpHw-2.Prototype.csproj.CoreCompileInputs.cache
+C:\Users\Shipa\source\repos\DpHw-2\DpHw-2.Prototype\obj\Debug\DpHw-2.Prototype.exe
+C:\Users\Shipa\source\repos\DpHw-2\DpHw-2.Prototype\obj\Debug\DpHw-2.Prototype.pdb
+C:\Users\Shipa\source\repos\DpHw-2\DpHw-2.Prototype\obj\Debug\DpHw-2.Prototype.csprojAssemblyReference.cache

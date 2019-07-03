@@ -1,0 +1,7 @@
+C:\Users\Shipa\source\repos\DpHw-2\DpHw-2\bin\Debug\DpHw-2.exe.config
+C:\Users\Shipa\source\repos\DpHw-2\DpHw-2\bin\Debug\DpHw-2.exe
+C:\Users\Shipa\source\repos\DpHw-2\DpHw-2\bin\Debug\DpHw-2.pdb
+C:\Users\Shipa\source\repos\DpHw-2\DpHw-2\obj\Debug\DpHw-2.Builder.csprojAssemblyReference.cache
+C:\Users\Shipa\source\repos\DpHw-2\DpHw-2\obj\Debug\DpHw-2.Builder.csproj.CoreCompileInputs.cache
+C:\Users\Shipa\source\repos\DpHw-2\DpHw-2\obj\Debug\DpHw-2.exe
+C:\Users\Shipa\source\repos\DpHw-2\DpHw-2\obj\Debug\DpHw-2.pdb

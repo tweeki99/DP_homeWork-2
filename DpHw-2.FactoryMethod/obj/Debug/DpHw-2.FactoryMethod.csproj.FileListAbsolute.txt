@@ -1,0 +1,6 @@
+C:\Users\Shipa\source\repos\DpHw-2\DpHw-2.FactoryMethod\bin\Debug\DpHw-2.FactoryMethod.exe.config
+C:\Users\Shipa\source\repos\DpHw-2\DpHw-2.FactoryMethod\bin\Debug\DpHw-2.FactoryMethod.exe
+C:\Users\Shipa\source\repos\DpHw-2\DpHw-2.FactoryMethod\bin\Debug\DpHw-2.FactoryMethod.pdb
+C:\Users\Shipa\source\repos\DpHw-2\DpHw-2.FactoryMethod\obj\Debug\DpHw-2.FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\Shipa\source\repos\DpHw-2\DpHw-2.FactoryMethod\obj\Debug\DpHw-2.FactoryMethod.exe
+C:\Users\Shipa\source\repos\DpHw-2\DpHw-2.FactoryMethod\obj\Debug\DpHw-2.FactoryMethod.pdb

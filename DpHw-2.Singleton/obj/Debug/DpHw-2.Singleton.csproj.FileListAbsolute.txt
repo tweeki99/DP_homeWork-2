@@ -1,0 +1,6 @@
+C:\Users\Shipa\source\repos\DpHw-2\DpHw-2.Singleton\bin\Debug\DpHw-2.Singleton.exe.config
+C:\Users\Shipa\source\repos\DpHw-2\DpHw-2.Singleton\bin\Debug\DpHw-2.Singleton.exe
+C:\Users\Shipa\source\repos\DpHw-2\DpHw-2.Singleton\bin\Debug\DpHw-2.Singleton.pdb
+C:\Users\Shipa\source\repos\DpHw-2\DpHw-2.Singleton\obj\Debug\DpHw-2.Singleton.csproj.CoreCompileInputs.cache
+C:\Users\Shipa\source\repos\DpHw-2\DpHw-2.Singleton\obj\Debug\DpHw-2.Singleton.exe
+C:\Users\Shipa\source\repos\DpHw-2\DpHw-2.Singleton\obj\Debug\DpHw-2.Singleton.pdb
